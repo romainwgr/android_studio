@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mdp">Met ton mot de passe bg</string>
+
+
+    <string name="groupe">Topaze</string>
+    <string name="nom">Wagner</string>
+    <string name="prenom">Romain</string>
+    <string name="envoyer">Envoyer un message</string>
+
+    • Le groupe (centré horizontalement),
+    • le nom, le prénom sous forme de deux zones de texte côte à côte,
+    • la photo (la plus grande possible à l’écran).
+    • un bouton pour envoyer un message.
+</resources>
